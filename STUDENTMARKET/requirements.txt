@@ -33,3 +33,6 @@ bleach==6.1.0
 
 # Date handling
 python-dateutil==2.8.2
+
+# Production Server
+gunicorn==21.2.0
